@@ -12,7 +12,7 @@ const RightSideNav = () => {
   return (
     <div >
       <div className='p-4'>
-        <h2 className="text-2xl font-semibold">Login With</h2>
+        <h2 className="text-xl font-semibold">Login With</h2>
         <button className="btn text-blue-400 w-full bg-transparent border border-blue-400 mt-5 text-sm">
         <FaGoogle />
           Login with Google
